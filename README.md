@@ -1,1 +1,1 @@
-In this project, I consolidate javascript basics by creating a skeleton of the game "rock paper scissors" against the computer.
+In this project, I consolidate javascript basics by creating a skeleton of the game "rock paper scissors".
