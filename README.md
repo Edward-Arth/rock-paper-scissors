@@ -1,4 +1,4 @@
-In this project, I consolidate javascript basics by creating a skeleton of the game "rock paper scissors".
+In this project, I consolidated javascript basics by creating the game "rock paper scissors". Later, I added a graphical user interface with Javascript, CSS, and HTML.
 
 background image: https://www.pexels.com/photo/photo-of-a-forest-during-daytime-6005031/ Alesia Kozik
 
