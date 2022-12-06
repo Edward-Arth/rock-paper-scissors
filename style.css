@@ -1,0 +1,76 @@
+body {
+    margin:0%;
+    background-image: url('jungle.jpeg');
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position-x: center;
+    background-position-y: 50%;
+}
+
+.header {
+    display:flex;
+    justify-content: center;
+    font-size: 600%;
+    color:white;
+    margin-bottom: 10%;
+}
+
+#fButtons {
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 8%;
+    gap:0.5%;
+}
+
+#rk {
+    background-image: url(gorilla-rock.jpg);
+    padding: 7%;
+    font-weight: bolder;
+    font-size: 200%;
+    color:white;
+}
+
+#pp{
+    padding: 7%;
+    font-weight: bolder;
+    font-size: 200%;
+    background-image: url(gorilla-paper.jpg);
+    background-position: center;
+    background-size: 150%;
+    background-repeat: no-repeat;
+    color:white;
+
+}
+
+#sz {
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 5%;
+    padding-right:5%;
+    font-size:200%;
+    font-weight: bolder;
+    color:white;
+    background-image: url(gorilla-scissors.png);
+
+}
+
+.scorez {
+    display:flex;
+    justify-content: center;
+    color: white;
+    font-size: 200%;
+    margin-top:14%;
+}
+
+#pScore {
+    color:gold;
+}
+
+#cScore {
+    color:darkred;
+}
+
+#tScore {
+    color:#644624;
+}
