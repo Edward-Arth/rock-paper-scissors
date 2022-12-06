@@ -1,6 +1,7 @@
 body {
     margin:0%;
     background-image: url('jungle.jpeg');
+    background-size:100%;
     background-repeat: no-repeat;
     background-color: black;
     background-position-x: center;
@@ -11,15 +12,20 @@ body {
     display:flex;
     justify-content: center;
     font-size: 600%;
-    color:white;
-    margin-bottom: 10%;
+    color:black;
+    margin-bottom: 5%;
+    margin-top: 3%;
+    background-color: lightgreen;
+    max-width: fit-content;
+    margin-left: 28%;
+    
 }
 
 #fButtons {
     display:flex;
     justify-content: center;
     align-content: center;
-    margin-top: 8%;
+    margin-top: 4%;
     gap:0.5%;
 }
 
@@ -58,19 +64,10 @@ body {
 .scorez {
     display:flex;
     justify-content: center;
-    color: white;
+    color: black;
     font-size: 200%;
-    margin-top:14%;
-}
-
-#pScore {
-    color:gold;
-}
-
-#cScore {
-    color:darkred;
-}
-
-#tScore {
-    color:#644624;
+    margin-top:4%;
+    background-color: lightgreen;
+    max-width: fit-content;
+    margin-left: 40%;
 }
